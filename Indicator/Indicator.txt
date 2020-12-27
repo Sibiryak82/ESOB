@@ -1,0 +1,8 @@
+## Title: Indicator
+## Author: Gary
+## Version: 1.0
+## Description: Indicator
+## APIVersion: 100030
+ 
+Indicator.lua
+Indicator.xml

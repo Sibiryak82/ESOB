@@ -1,0 +1,14 @@
+-- 1: isReady
+
+-- 2: haveDamageShield
+-- 3: haveEnoughHealth
+-- 4: haveEnoughMagicka
+-- 5: haveEnoughStamina
+
+-- 6: currentBar
+-- 7: isTargetingEnemy
+
+-- 8: targetInShortRange
+-- 9: targetIn LongRange
+-- 10:
+-- 11:

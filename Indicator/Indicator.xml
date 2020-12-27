@@ -1,0 +1,110 @@
+
+<GuiXml>
+   <Controls>
+   <TopLevelControl name="IW" clampedToScreen="true" mouseEnabled="true" movable="false" hidden="false">
+      <Dimensions x="2" y="53" />
+      <Anchor point="TOPLEFT" relativeTo="GuiRoot" relativePoint="CENTER" offsetX="190" offsetY="485"/>
+      <Controls>
+          
+          <StatusBar name="$(parent)backGround" color="000000" alpha="1">
+             <Dimensions x="2" y="53" />
+             <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="0"/>
+             <Limits min="0" max="1" />
+          </StatusBar>
+          
+
+ 
+         <StatusBar name="$(parent)1" color="15aad4" alpha="1">
+            <Dimensions x="2" y="2" />
+            <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="0"/>
+            <Limits min="0" max="1" />
+         </StatusBar>
+ 
+        <StatusBar name="$(parent)2" color="15aad4" alpha="1">
+           <Dimensions x="2" y="2" />
+           <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="3.5"/>
+           <Limits min="0" max="1" />
+        </StatusBar>
+        
+        <StatusBar name="$(parent)3" color="15aad4" alpha="1">
+           <Dimensions x="2" y="2" />
+           <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="7"/>
+           <Limits min="0" max="1" />
+        </StatusBar>
+        
+        <StatusBar name="$(parent)4" color="15aad4" alpha="1">
+           <Dimensions x="2" y="2" />
+           <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="10.5"/>
+           <Limits min="0" max="1" />
+        </StatusBar>
+        
+        <StatusBar name="$(parent)5" color="15aad4" alpha="1">
+           <Dimensions x="2" y="2" />
+           <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="14"/>
+           <Limits min="0" max="1" />
+        </StatusBar>
+        
+        <StatusBar name="$(parent)6" color="15aad4" alpha="1">
+           <Dimensions x="2" y="2" />
+           <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="17.5"/>
+           <Limits min="0" max="1" />
+        </StatusBar>
+        
+        <StatusBar name="$(parent)7" color="15aad4" alpha="1">
+           <Dimensions x="2" y="2" />
+           <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="21"/>
+           <Limits min="0" max="1" />
+        </StatusBar>
+        
+        <StatusBar name="$(parent)8" color="15aad4" alpha="1">
+           <Dimensions x="2" y="2" />
+           <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="24.5"/>
+           <Limits min="0" max="1" />
+        </StatusBar>
+        
+        <StatusBar name="$(parent)9" color="15aad4" alpha="1">
+           <Dimensions x="2" y="2" />
+           <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="28"/>
+           <Limits min="0" max="1" />
+        </StatusBar>
+        
+        <StatusBar name="$(parent)10" color="15aad4" alpha="1">
+           <Dimensions x="2" y="2" />
+           <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="31.5"/>
+           <Limits min="0" max="1" />
+        </StatusBar>
+        
+        <StatusBar name="$(parent)11" color="15aad4" alpha="1">
+           <Dimensions x="2" y="2" />
+           <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="35"/>
+           <Limits min="0" max="1" />
+        </StatusBar>
+        
+        <StatusBar name="$(parent)12" color="15aad4" alpha="1">
+           <Dimensions x="2" y="2" />
+           <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="38.5"/>
+           <Limits min="0" max="1" />
+        </StatusBar>
+        
+        <StatusBar name="$(parent)13" color="15aad4" alpha="1">
+           <Dimensions x="2" y="2" />
+           <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="42"/>
+           <Limits min="0" max="1" />
+        </StatusBar>
+        
+        <StatusBar name="$(parent)14" color="15aad4" alpha="1">
+           <Dimensions x="2" y="2" />
+           <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="45.5"/>
+           <Limits min="0" max="1" />
+        </StatusBar>
+        
+        <StatusBar name="$(parent)15" color="15aad4" alpha="1">
+           <Dimensions x="2" y="2" />
+           <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="49"/>
+           <Limits min="0" max="1" />
+        </StatusBar>
+ 
+      </Controls>
+   </TopLevelControl>
+   </Controls>
+</GuiXml>
